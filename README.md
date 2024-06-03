@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Likhit Sri Sai
-- 👨‍💻 I'm currently pursuing my B.Tech in Anil Neerukonda Institute of Technology and Sciences
+- 👨‍💻 Software Trainee at Miracle Software Systems
 - 👀 I’m interested in Coding and Web Developement
 - 📫 Hands on experience on Web Developement  
 
